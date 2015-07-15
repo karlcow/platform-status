@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CSS unicorn",
+    "contact": "foo <foo@example.org>",
+    "category": "CSS",
+    "description": "Enables drawing unicorns with just one line",
+    "status": "in progress|wanted|not wanted|not studied",
+    "urls": {
+      "bugzilla": "http://bugzilla.mozilla.org/show_bug.cgi?id=123456789",
+      "documentation": "https://developer.mozilla.org/en-US/docs/Web/CSS/unicorn",
+      "specification": "http://dev.w3.org/csswg/unicorn-4/"
+    }
+  },
+  {
+    "name": "Web form styling",
+    "contact": "bar <bar@example.org>",
+    "category": "Forms",
+    "description": "yup, another unicorn for web developers",
+    "status": "in progress|wanted|not wanted|not studied",
+    "urls": {
+      "bugzilla": "http://bugzilla.mozilla.org/show_bug.cgi?id=1234567890",
+      "documentation": "https://developer.mozilla.org/en-US/docs/Web/Forms/Styling",
+      "specification": "http://dev.w3.org/csswg/form-styling-4/"
+    }
+  }
+]

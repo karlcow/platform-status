@@ -1,0 +1,823 @@
+{
+  "CSS": [
+    {
+      "name": "CSS Device Adaptation",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Intrinsic Sizing",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Logical Properties Level 1",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS filter() image function",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Custom filters (shaders)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Generated Content for Paged Media",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Multi-column (full support)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Shapes",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Grid Layout Level 1",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Media Queries Level 4",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Positioned Layout Module Level 3",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Selector :any-link",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Selector :lang() level 4",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Selector :matches()",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Selector :not() level 4",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Selector :nth-child(An+B of selector list) and :nth-last-child(An+B of selector list)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Selector :placeholder-shown",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Shapes Level 1",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Position: sticky",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Case-insensitive attribute selectors",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Box Alignment",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Exclusions",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Masks",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS Regions",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+
+  "File APIs": [
+    {
+      "name": "Drag and Drop Directories",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Streams API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "FileWriter",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Graphics": [
+    {
+      "name": "Canvas2D text decoration",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "SVG2",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Web Animations JavaScript API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "WebGL2 (Canvas 3D)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "WebP image format support",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "JavaScript": [
+    {
+      "name": "Array.prototype.includes",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "SIMD (ES7)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Classes",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Misc": [
+    {
+      "name": "<details>/<summary>",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "HTML Form HTTP Extensions",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "WebDriver",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "iframe[seamless] attribute",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Multimedia": [
+    {
+      "name": "Audio tracks",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Encrypted Media Extensions",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "HTTP Live Streaming (HLS)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Media Source Extensions",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "MediaRecorder",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Quota Management API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Track element",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Video tracks",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Web MIDI API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Web SQL Database",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Web Speech API (input)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Web Speech API (synthesis)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "navigator.hardwareConcurrency",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Network / Connectivity": [
+    {
+      "name": "HTTP Client Hints",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Offline / Storage": [
+    {
+      "name": "Service Worker",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Performance": [
+    {
+      "name": "Navigation Error Logging",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Prerender attribute",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Resource Priorities",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Realtime / Communication": [
+    {
+      "name": "WebRTC – Object RTC API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Security": [
+    {
+      "name": "Subresource Integrity",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Web Crypto API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "User input": [
+    {
+      "name": "Pointer events",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "<dialog> element for modals",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "CSS touch-action",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "IME API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "inputmode",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Date related input types",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Time related input types",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ],
+
+
+  "Web Components": [
+    {
+      "name": "Custom Elements",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "HTML Imports",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    },
+    {
+      "name": "Shadow DOM (unprefixed)",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "",
+        "specification": ""
+      }
+    }
+  ]
+}
