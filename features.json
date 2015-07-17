@@ -474,13 +474,13 @@
     },
     {
       "name": "MediaRecorder",
-      "contact": "",
-      "status": "in progress|favorable|not favorable|no opinion",
-      "description": "",
+      "contact": "mreavy@mozilla.com",
+      "status": "done",
+      "description": "MediaRecorder allows recording MediaStream into compressed audio and video formats",
       "urls": {
-        "bugzilla": "",
-        "documentation": "",
-        "specification": ""
+        "bugzilla": "https://bugzilla.mozilla.org/show_bug.cgi?id=803414",
+        "documentation": "https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder",
+        "specification": "http://w3c.github.io/mediacapture-record/MediaRecorder.html"
       }
     },
     {
